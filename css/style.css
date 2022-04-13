@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(213, 208, 208);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 20px, sans-serif;
+}
+.navbar {
+    background-color: rgba(196, 196, 139, 0.267);
+}
+.quem-somos {
+    background-color: rgb(184, 185, 185);
+    color: white;
+}
+.margin {
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+.parceiros {
+    background-color: rgb(107, 142, 143);
+    color: white;
+}
+
+.servicos{
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+}
